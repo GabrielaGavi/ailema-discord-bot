@@ -1,2 +1,5 @@
 .env
 ailema-bot-env/
+cogs/__pycache__/
+duels.json
+phrases.txt
