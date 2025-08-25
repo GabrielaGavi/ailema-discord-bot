@@ -1,6 +1,6 @@
 # Ailema Bot for Discord  
 
-#### Video Demo: <[URL HERE](https://www.youtube.com/watch?v=TjTTKV86w_0)>  
+#### Video Demo: <(https://www.youtube.com/watch?v=TjTTKV86w_0)>  
 
 #### Description:  
 The **Ailema Bot** is a multifunctional Discord bot that includes music features, creation of scoreboards between players with saved results, and a system to display Bible verses, as well as keyword search in the Bible.  
